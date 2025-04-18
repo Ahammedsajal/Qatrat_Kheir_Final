@@ -505,7 +505,8 @@
   "NO_MOSQUE_SELECTED": "No Mosque Selected",
   "DELIVERING_TO_MOSQUE": "Delivering to:",
   "CHANGE_MOSQUE": "Change Mosque",
-
+"NO_TICKETS_YET": "You haven’t created any tickets yet",
+ "CREATE_NEW_TICKET": "Create New Ticket",
   
     "PRIVACY": "Privacy Policy",
     "TERM": "Terms & Conditions",
